@@ -5,9 +5,6 @@ A Python script to evaluate branch predictors and find the closest stores based 
 - [Introduction](#introduction)
 - [Branch Predictor Evaluation](#branch-predictor-evaluation)
 - [Store Location](#store-location)
-- [Usage](#usage)
-- [Requirements](#requirements)
-- [License](#license)
 
 ## Introduction
 The "Branch Predictor & Store Location" script is designed to help you evaluate different branch predictors and understand their impact on the performance of a CPU. It also provides functionality to find the closest stores to a given geographical location using the haversine distance formula.
